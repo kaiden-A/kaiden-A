@@ -43,8 +43,8 @@ Git & GitHub
 ---
 
 ## 🤝 Connect With Me
-🌐 GitHub: **github.com/amirikwan**  
-💼 LinkedIn: (coming soon)  
+🌐 GitHub: **github.com/Kaiden-A**  
+💼 LinkedIn: www.linkedin.com/in/amirul-ikhwan-faisal-041772390  
 
 ---
 
