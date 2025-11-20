@@ -27,7 +27,7 @@ Git & GitHub
 
 ---
 
-## 🔥 Current Projects
+## 🔥 Projects Hall
 - 🏢 **MITS Venue Booking System** – A booking management platform for campus venue scheduling  
 - 📝 **Blog Hub** – A blogging platform with user posts, categories, and full CRUD features  
 - 🧪 **Chem Quest** – My first web project; a gamified learning world themed around Chemistry & STEM  
