@@ -29,7 +29,7 @@ Git & GitHub
 
 ## 🔥 Projects Hall
 - 🏢 **MITS Venue Booking System** – A booking management platform for campus venue scheduling  
-- 📝 **Blog Hub** – A blogging platform with user posts, categories, and full CRUD features  
+- 📝 **i-Do** – A group to-do list web application design to help track  task for assignments
 - 🧪 **Chem Quest** – My first web project; a gamified learning world themed around Chemistry & STEM  
 
 ---
