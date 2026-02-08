@@ -1,53 +1,15 @@
-# 👋 Hi, I’m **Kaiden-A**
+# 💫 About Me:
+Machine Learning Enthusiast | Full-Stack Developer | Computer Science Student @ IIUM<br>I'm passionate about building intelligent systems, creating clean and functional full-stack applications, and exploring how technology can enhance learning. I love working with AI concepts, backend engineering, and interactive educational tools.
 
-### 🚀 Machine Learning Enthusiast | Full-Stack Developer | Computer Science Student @ IIUM
 
-I'm passionate about building intelligent systems, creating clean and functional full-stack applications, and exploring how technology can enhance learning. I love working with AI concepts, backend engineering, and interactive educational tools.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaiden-A&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaiden-A&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiden-A&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kaiden-A&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🧠 About Me
-- 🎓 Studying **Computer Science**  
-- 🤖 Exploring **Machine Learning**, **AI**, and intelligent systems  
-- 🌐 Building full-stack applications with the **MERN stack** and **MySQL**  
-- 💡 Always experimenting with new ideas—from gamified learning to AI-enabled tools  
-- 🎯 Goal: Join a **hackathon by 2026** and build impactful tech projects  
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-C++ | Python | JavaScript | **Java** | SQL | HTML | CSS
-
-### **Tools & Frameworks**
-**React** | Node.js | Express  
-MongoDB | MySQL | Oracle  
-Git & GitHub  
-
----
-
-## 🔥 Projects Hall
-- 🏢 **MITS Venue Booking System** – A booking management platform for campus venue scheduling  
-- 📝 **i-Do** – A group to-do list web application design to help track  task for assignments
-- 🧪 **Chem Quest** – My first web project; a gamified learning world themed around Chemistry & STEM  
-
----
-
-## 📈 What I’m Learning
-- 🖥️ MERN stack development  
-- 📊 Databases (MySQL & Oracle)  
-- ⚙️ Backend systems and API architecture  
-- 🤖 Machine learning fundamentals  
-
----
-
-## 🤝 Connect With Me
-🌐 GitHub: **github.com/Kaiden-A**  
-💼 LinkedIn: www.linkedin.com/in/amirul-ikhwan-faisal-041772390  
-
----
-
-## ✨ Fun Fact
-Even in personality tests, I think like an **Owl** 🦉—analytical, structured, always curious.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
