@@ -17,9 +17,9 @@
 <br/><br/>
 
 <a href="https://github.com/kaiden-A"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B9FFF" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/amirul-ikhwan-041772390"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B9FFF" alt="LinkedIn"/></a>
 <a href="https://elysiaa.com"><img src="https://img.shields.io/badge/Elysiaa-0D1117?style=for-the-badge&logo=vercel&logoColor=A5B4FC" alt="Elysiaa"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C4BFFF" alt="Email"/></a>
+<a href="mailto:contacts@elysiaa.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C4BFFF" alt="Email"/></a>
 
 </div>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm **Kaiden**, a Computer Science student at **IIUM**, specializing in **Artificial Intelligence**.
+I'm **Kaiden-A**, a Computer Science student at **IIUM**, specializing in **Artificial Intelligence**.
 
 I love taking an idea from rough sketch to deployed product: designing the architecture, building the backend, wiring in AI, and shipping it.
 
