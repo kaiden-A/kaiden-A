@@ -197,7 +197,7 @@ Into AI, software engineering or educational tech? Got an idea that needs buildi
 <div align="center">
 
 <a href="https://github.com/kaiden-A"><img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-6558D3?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-24204A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/amirul-ikhwan-041772390"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-24204A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 
 <br/><br/>
 
